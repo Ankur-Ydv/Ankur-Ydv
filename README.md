@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Ankur Yadav</h1>
-<h3 align="center">MERN Stack Developer & Competitive Programmer</h3>
+<h3 align="center">Golang Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankur-Ydv&label=Profile%20views&color=0e75b6&style=flat" alt="Ankur-Ydv" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ankur-Ydv&theme=" alt="Ankur-Ydv" /></a> </p>
 
-- 🔭 I’m currently working on [ZOLIO](https://github.com/Ankur-Ydv/Zolio)
+- 🔭 I’m currently working on [IRINO](https://github.com/Ankur-Ydv/irino)
 - 👯 I’m looking to collaborate on **OPEN-SOURCE Projects**
 - 🤝 I’m looking for help with [AROGYAM](https://github.com/Ankur-Ydv/Arogyam)
-- 💬 Ask me about **React, Next.js, MongoDB, Node.js, Data Structures**
-- 📫 How to reach me **ankury.2508@gmail.com**
+- 💬 Ask me about **Golang, React, Mysql, Postgres, MongoDB, Data Structures**
+- 📫 How to reach me **yadavankur673@gmail.com**
 - 👨‍💻 All of my projects are available at **https://zolio.vercel.app/portfolio/Akryadav**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1mwLZfWizgzIK5R_Lx8WrE-SW1wNxWSdG/view**
 
