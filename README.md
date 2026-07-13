@@ -9,7 +9,7 @@ Backend Engineer focused on building scalable systems with **Go**, **PostgreSQL*
 - Software Engineer with **2+ years of experience**
 - Building backend services and event-driven systems in **Go**
 - Interested in **distributed systems, system design, and performance optimization**
-- Currently working on **IRINO**, a real-time notification platform
+- Currently working on **DIRALIM**, a rate limiter library
 - Open to collaborating on **Golang and open-source projects**
 
 ---
